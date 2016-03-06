@@ -26,7 +26,7 @@ npm install
 gulp
 ```
 
-and open the `index.html` file in `build` folder
+and open the `index.html` file in `build` folder. The browser should say "It's running" when the file is opened. That means that everything is working correctly.
 
 ### What this doesn't include
 
